@@ -28,7 +28,7 @@ from IPython.display import Image as Image
 Image(filename=outfile)
 ```
 ### Output:
-![lines](../aquarelle/sample_lines_5.png)
+![lines](./aquarelle/sample_lines_5.png)
 
 
 ## See `/notebooks/Example.ipynb` or `/notebooks/Example.md` for processing an entire folder.  
